@@ -23,12 +23,12 @@ One Ring to rule them all
 至尊戒驭众戒  
 
 One Ring to find them  
-至尊戒寻众戒
+至尊戒寻众戒  
 
-One Ring to bring them all
-至尊戒引众戒
+One Ring to bring them all  
+至尊戒引众戒  
 
-and in the darkness bind them
-禁锢众戒黑暗中
+and in the darkness bind them  
+禁锢众戒黑暗中  
 
-In the Land of Mordor, where the shadows lie.
+In the Land of Mordor, where the shadows lie  
