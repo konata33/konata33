@@ -1,4 +1,4 @@
-## 🐱  about me
+## 🐱 ME
 
 Hello, I'm mrCat33, I'm a learner of Front-end, I love funny projects or code, not limited to any language, very nice to meet you
 
