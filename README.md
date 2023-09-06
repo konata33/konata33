@@ -1,14 +1,10 @@
 ## 🐱 Meow
 
-Hello, I'm mrCat33, I'm a learner of Front-end, I love funny projects or code, not limited to any language, very nice to meet you
+Hello, I'm mrCat33, I'm a learner of Front-end,  very nice to meet you
 
 <img align="left" alt="GIF" src="https://www.bing.com/th/id/OGC.2b2155c668f98b793249e03dae6e3f86?pid=1.7&rurl=https%3a%2f%2fwww.365biaoqing.com%2fimages%2f367685%2f2_Wgfpd.png&ehk=ziwNrMnL0jIbs8x7z5pob8%2bu8OYwEMV81xlT4sh3ihw%3d" width="60" title="Say HI">
 
 <br/>
-
-### More about me:
-- 🌱 &nbsp; I’m currently learning Typescript and nestJs;
-- 📝 &nbsp; I'm Plan to join the open source team (elementPlus and vueUse)
 
 
 ## 🖥   Github Activity
