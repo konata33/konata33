@@ -1,6 +1,6 @@
 ## 🐱 Meow
 
-Hello, I'm mrCat33, I'm a learner of Front-end,  very nice to meet you
+Hello, I'm Konata, I'm working hard to become a full-stack engineer. It's nice to meet you
 
 <img align="left" alt="GIF" src="https://www.bing.com/th/id/OGC.2b2155c668f98b793249e03dae6e3f86?pid=1.7&rurl=https%3a%2f%2fwww.365biaoqing.com%2fimages%2f367685%2f2_Wgfpd.png&ehk=ziwNrMnL0jIbs8x7z5pob8%2bu8OYwEMV81xlT4sh3ihw%3d" width="60" title="Say HI">
 
@@ -12,10 +12,10 @@ Hello, I'm mrCat33, I'm a learner of Front-end,  very nice to meet you
     <table style="margin-left: auto; margin-right: auto;" border="0">
         <tr>
             <td style="border:0px">
-               <img src="https://github-readme-stats.vercel.app/api?username=mrcat33&theme=vision-friendly-dark&show_icons=true" />
+               <img src="https://github-readme-stats.vercel.app/api?username=konata33&theme=vision-friendly-dark&show_icons=true" />
             </td>
             <td style="border:0px">
-               <img src="https://github-readme-streak-stats.herokuapp.com?user=mrcat33&theme=highcontrast&hide_border=true)](https://git.io/streak-stats"/>
+               <img src="https://github-readme-streak-stats.herokuapp.com?user=konata33&theme=highcontrast&hide_border=true)](https://git.io/streak-stats"/>
             </td>
         </tr>
     </table>
